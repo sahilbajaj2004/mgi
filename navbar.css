@@ -1,7 +1,6 @@
-/* Navbar styles */
 .navbar {
     background-color: #1a237e;
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -46,7 +45,6 @@
     color: #ffd700;
 }
 
-/* Responsive navbar */
 @media (max-width: 768px) {
     .navbar {
         flex-direction: column;

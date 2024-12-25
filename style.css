@@ -1,4 +1,3 @@
-/* Base styles */
 * {
     margin: 0;
     padding: 0;
@@ -54,7 +53,3 @@ section {
     background-color: white;
     filter: drop-shadow(white);
 } 
-.image{
-    width: 200px;
-    height: 200px;
-}
